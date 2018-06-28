@@ -1,0 +1,15 @@
+{
+  "title": "Can I Require Extension",
+  "name": "canirequire-extension",
+  "version": "1.0.0",
+  "author": "Auth0, Inc",
+  "description": "Discover which modules you can require in Auth0 extensibility points",
+  "type": "application",
+  "repository": "https://github.com/auth0-extensions/canirequire-extension",
+  "keywords": [
+    "auth0",
+    "extension",
+    "webtask",
+    "canirequire"
+  ]
+}
